@@ -565,31 +565,6 @@ F 3 "~" H 4400 1750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5600 4550 5450 4550
-Wire Wire Line
-	5450 4550 5450 4650
-Wire Wire Line
-	5450 4650 5200 4650
-Connection ~ 5200 4650
-Wire Wire Line
-	5200 4750 5450 4750
-Wire Wire Line
-	5450 4750 5450 4850
-Connection ~ 5200 4750
-$Comp
-L Device:CP C1
-U 1 1 5FE2C1BE
-P 5600 4700
-F 0 "C1" H 5718 4746 50  0000 L CNN
-F 1 "CP" H 5718 4655 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_Tantal_D5.0mm_P2.50mm" H 5638 4550 50  0001 C CNN
-F 3 "~" H 5600 4700 50  0001 C CNN
-	1    5600 4700
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5600 4850 5450 4850
-Wire Wire Line
 	2850 3000 2850 3750
 Wire Wire Line
 	3450 2900 3200 2900
