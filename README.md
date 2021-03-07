@@ -7,6 +7,7 @@ If you try this out, feel free to contact me with questions, critique, or send m
 If there are any issues with any of the files, please contact me. I made this before I knew I would be sharing everything online.
 
 * * * * * BUILD INSTRUCTIONS * * * * *
+
 To make your lifes easier I have updated the silkscreen to include the component values.
 While soldering the headers, I recommend you stack the pcb's with the unsoldered headers mated in between. Then fix the PCBs together with the standoffs and screws to keep things together. Then solder the connectors.
 When installing the front panel, make sure the text on the panel is oriented in the same direction as the text on the PCBs. Otherwise things will not work as expected. In future designs I will try to make the panel non-symmetrical.
