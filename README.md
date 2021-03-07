@@ -6,7 +6,7 @@ If you try this out, feel free to contact me with questions, critique, or send m
 
 If there are any issues with any of the files, please contact me. I made this before I knew I would be sharing everything online.
 
-* * * * * BUILD INSTRUCTIONS * * * * *
+***** BUILD INSTRUCTIONS *****
 
 To make your lifes easier I have updated the silkscreen to include the component values.
 While soldering the headers, I recommend you stack the pcb's with the unsoldered headers mated in between. Then fix the PCBs together with the standoffs and screws to keep things together. Then solder the connectors.
